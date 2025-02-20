@@ -1,0 +1,4 @@
+Added Component: Designator=IC?(DIP8)
+Add component (AddParameter): Name = "Value"; Value = "DS1307"; VariantName = "[No Variations]"
+Added Class: Name=SCHcadcamcuoiki
+Added Room: Name=SCHcadcamcuoiki

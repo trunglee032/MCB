@@ -1,0 +1,6 @@
+Added Component: Designator=U?(SOT23)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR8_2 Pin=U?-1
+Added Pin To Net: NetName=NetC8_1 Pin=U?-2
+Added Pin To Net: NetName=NetQ1_1 Pin=U?-3
+Added Member To Class: ClassName=SCHcadcamcuoiki Member=Component U? UCC28700DBV

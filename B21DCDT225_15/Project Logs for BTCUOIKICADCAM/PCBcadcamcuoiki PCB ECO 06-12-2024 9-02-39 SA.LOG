@@ -1,0 +1,19 @@
+Added Component: Designator=28700(SOT23(1))
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC8_1 Pin=28700-2
+Added Pin To Net: NetName=GND Pin=28700-5
+Change Net Name : Old Net Name=NetC8_1 New Net Name=Net28700_2
+Added Pin To Net: NetName=Net28700_1 Pin=28700-1
+Added Pin To Net: NetName=Net28700_1 Pin=R8-2
+Added Net: Name=Net28700_1
+Added Pin To Net: NetName=Net28700_3 Pin=28700-3
+Added Pin To Net: NetName=Net28700_3 Pin=Q1-1
+Added Net: Name=Net28700_3
+Added Pin To Net: NetName=Net28700_4 Pin=28700-4
+Added Pin To Net: NetName=Net28700_4 Pin=R6-1
+Added Net: Name=Net28700_4
+Added Pin To Net: NetName=Net28700_6 Pin=28700-6
+Added Pin To Net: NetName=Net28700_6 Pin=R4-1
+Added Pin To Net: NetName=Net28700_6 Pin=R5-2
+Added Net: Name=Net28700_6
+Added Member To Class: ClassName=SCHcadcamcuoiki Member=Component 28700

@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=L1 Old Footprint=PE-92102-100uH New Footprint=CUON CAM 200mil
+Change Component Comment : Designator=L1 Old Comment=100uH New Comment=
+Added Component: Designator=D2(DIODE CAU 10A CAM)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "c?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004295"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode C?u 10A 1000V KBU1010"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIODE ZENNER SMD SOD80)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002878"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode Zener 1/2W 24V DIP 1N5252B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D2-4
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=F1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=TP1-1
+Added Net: Name=NetD2_3
+Added Member To Class: ClassName=SCHcadcamcuoiki Member=Component D2 RH06-T
+Added Member To Class: ClassName=SCHcadcamcuoiki Member=Component D5 CDBC340
